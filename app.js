@@ -20,6 +20,7 @@ function agregarAmigo(){ //Funcion "on click" para el boton de agregarAmigo
         }
     }
     return;
+    //hola
 }
 
 function sortearAmigo(){ //Funcion "on click" para el boton de sortearAmigo
